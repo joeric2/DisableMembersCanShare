@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="333e91bf-9680-4340-a351-4ff3e88b4a3d" solutionId="333e91bf-9680-4340-a351-4ff3e88b4a3d" resetWebServer="false" sharePointProductVersion="19.0" name="DisableMembersCanShare" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="ea985f66-de1c-448b-a1a6-c45827e42ce8" />
+    <featureReference itemId="f65f63ac-2acd-44ff-a593-301b3448f3c9" />
+  </features>
+</package>
